@@ -154,4 +154,11 @@ h3 {
     .desk-content{
         display: none;
     }
+    .movil-content{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-content: center;
+
+    }
 }
